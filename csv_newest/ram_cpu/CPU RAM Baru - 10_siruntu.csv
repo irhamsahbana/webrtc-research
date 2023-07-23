@@ -1,0 +1,26 @@
+time,memory,cpu,app,media,user
+15/06/2023 15:00:16,36116,10.9,siruntu,webcam,viewer_10
+15/06/2023 15:01:01,37276,12.5,siruntu,webcam,viewer_10
+15/06/2023 15:02:01,37444,14.0,siruntu,webcam,viewer_10
+15/06/2023 15:03:01,40732,9.4,siruntu,webcam,viewer_10
+15/06/2023 15:04:01,40728,10.9,siruntu,webcam,viewer_10
+15/06/2023 15:05:01,40878,6.2,siruntu,webcam,viewer_10
+15/06/2023 15:06:01,41012,4.7,siruntu,webcam,viewer_10
+15/06/2023 15:07:01,38728,7.8,siruntu,webcam,viewer_10
+15/06/2023 15:08:01,39408,3.1,siruntu,webcam,viewer_10
+15/06/2023 15:09:01,39676,7.8,siruntu,webcam,viewer_10
+15/06/2023 15:10:01,39656,1.6,siruntu,webcam,viewer_10
+15/06/2023 15:11:01,40400,6.2,siruntu,webcam,viewer_10
+15/06/2023 15:35:06,49080,9.4,siruntu,screen,viewer_10
+15/06/2023 15:36:01,50212,1.6,siruntu,screen,viewer_10
+15/06/2023 15:37:01,50464,32.8,siruntu,screen,viewer_10
+15/06/2023 15:38:01,50356,32.8,siruntu,screen,viewer_10
+15/06/2023 15:39:01,50296,37.5,siruntu,screen,viewer_10
+15/06/2023 15:40:01,50848,37.5,siruntu,screen,viewer_10
+15/06/2023 15:41:01,50836,31.2,siruntu,screen,viewer_10
+15/06/2023 15:42:01,62324,14.0,siruntu,screen,viewer_10
+15/06/2023 15:43:01,62212,31.2,siruntu,screen,viewer_10
+15/06/2023 15:44:01,62084,23.4,siruntu,screen,viewer_10
+15/06/2023 15:45:01,62160,26.5,siruntu,screen,viewer_10
+15/06/2023 15:46:01,62136,1.6,siruntu,screen,viewer_10
+15/06/2023 15:47:01,62016,3.1,siruntu,screen,viewer_10
