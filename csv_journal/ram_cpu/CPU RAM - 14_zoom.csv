@@ -1,0 +1,26 @@
+time,memory,cpu,app,media,user
+01/02/2023 14:26:16,613392,26.3,zoom,webcam,viewer_14
+01/02/2023 14:27:00,515280,17.1,zoom,webcam,viewer_14
+01/02/2023 14:28:00,534780,27.9,zoom,webcam,viewer_14
+01/02/2023 14:29:00,534808,27.9,zoom,webcam,viewer_14
+01/02/2023 14:30:00,540176,23.3,zoom,webcam,viewer_14
+01/02/2023 14:31:00,542912,15.5,zoom,webcam,viewer_14
+01/02/2023 14:32:00,533436,24.8,zoom,webcam,viewer_14
+01/02/2023 14:33:00,542076,12.4,zoom,webcam,viewer_14
+01/02/2023 14:34:00,539828,15.5,zoom,webcam,viewer_14
+01/02/2023 14:35:00,543944,15.5,zoom,webcam,viewer_14
+01/02/2023 14:36:00,539588,23.3,zoom,webcam,viewer_14
+01/02/2023 14:37:39,473876,0.0,zoom,webcam,viewer_14
+01/02/2023 14:54:12,237816,26.4,zoom,screen,viewer_14
+01/02/2023 14:55:00,479672,12.4,zoom,screen,viewer_14
+01/02/2023 14:56:00,489944,18.6,zoom,screen,viewer_14
+01/02/2023 14:57:00,492584,17.1,zoom,screen,viewer_14
+01/02/2023 14:58:00,494324,20.1,zoom,screen,viewer_14
+01/02/2023 14:59:00,489012,12.4,zoom,screen,viewer_14
+01/02/2023 15:00:00,488388,17.0,zoom,screen,viewer_14
+01/02/2023 15:01:00,490168,12.4,zoom,screen,viewer_14
+01/02/2023 15:02:00,492544,7.8,zoom,screen,viewer_14
+01/02/2023 15:03:00,508200,142.1,zoom,screen,viewer_14
+01/02/2023 15:04:00,510708,21.7,zoom,screen,viewer_14
+01/02/2023 15:05:00,592124,12.4,zoom,screen,viewer_14
+01/02/2023 15:06:51,554928,0.0,zoom,screen,viewer_14
